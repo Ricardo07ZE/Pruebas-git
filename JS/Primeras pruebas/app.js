@@ -1,3 +1,4 @@
-let variable = 2.21;
+let nombre = 'Ricardo';
+document.getElementById("app").innerHTML = nombre;
 
-console.log(typeof variable);
+console.log(typeof nombre);
